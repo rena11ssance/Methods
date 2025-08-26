@@ -55,6 +55,7 @@ namespace Task_1
 
             #region Устанавливаем условие для площадей треугольника
             string answerToTask;
+            
             if (firstTriangle > secondTriangle)
             {
                 answerToTask = "Площадь первого треугольника больше, чем второго.";
